@@ -22,3 +22,13 @@
 ## Support
 
 Contact [your support email or link] for help.
+
+
+
+## .env [use your own tokens]
+```
+TWILIO_ACCOUNT_SID=AC5aaedbf807eb58af304b4a7ee017710e
+TWILIO_AUTH_TOKEN=429d3bec233157f4f258d38c0f3c7927
+TWILIO_VERIFY_SERVICE_SID=VAc85549ebe8e6ec70738b2e4447eff49f
+PORT=5002
+```
